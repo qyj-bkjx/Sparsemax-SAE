@@ -1,0 +1,12 @@
+{
+  "AnnualCrop": "AnnualCrop",
+  "Forest": "Forest",
+  "HerbaceousVegetation": "HerbaceousVegetation",
+  "Highway": "Highway",
+  "Industrial": "Industrial",
+  "Pasture": "Pasture",
+  "PermanentCrop": "PermanentCrop",
+  "Residential": "Residential",
+  "River": "River",
+  "SeaLake": "SeaLake"
+}
